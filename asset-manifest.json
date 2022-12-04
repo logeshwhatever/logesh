@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/logesh/static/css/main.fb532045.css",
+    "main.js": "/logesh/static/js/main.b4603a93.js",
+    "static/js/787.39bb0775.chunk.js": "/logesh/static/js/787.39bb0775.chunk.js",
+    "index.html": "/logesh/index.html",
+    "main.fb532045.css.map": "/logesh/static/css/main.fb532045.css.map",
+    "main.b4603a93.js.map": "/logesh/static/js/main.b4603a93.js.map",
+    "787.39bb0775.chunk.js.map": "/logesh/static/js/787.39bb0775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb532045.css",
+    "static/js/main.b4603a93.js"
+  ]
+}
